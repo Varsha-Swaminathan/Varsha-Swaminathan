@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varsha-Swaminathan
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science and Software Engineering
 
 <!---
 Varsha-Swaminathan/Varsha-Swaminathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
